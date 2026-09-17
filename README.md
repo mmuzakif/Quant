@@ -1,2 +1,2 @@
 # Quant-Investing
-future project,comming soon
+future project,coming soon
