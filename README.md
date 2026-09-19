@@ -1,2 +1,2 @@
-# Quant-Investing
-future project,coming soon
+# Quant
+α=Rp​−[Rf​+β(Rm​−Rf​)]
